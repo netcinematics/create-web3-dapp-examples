@@ -20,8 +20,10 @@
 		"react-dropzone": "^14.2.3"
 	},
 	"devDependencies": {
+		"@types/node": "20.2.1",
 		"@types/react": "18.0.28",
 		"eslint": "8.20.0",
-		"eslint-config-next": "12.2.3"
+		"eslint-config-next": "12.2.3",
+		"typescript": "5.0.4"
 	}
 }
